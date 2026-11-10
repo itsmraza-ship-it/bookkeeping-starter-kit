@@ -1,0 +1,45 @@
+account_code,account_name,account_type,notes
+1000,Business Checking,Asset,Primary operating account
+1010,Business Savings,Asset,Tax reserve and emergency fund
+1020,Cash on Hand,Asset,Petty cash if used
+1100,Accounts Receivable,Asset,Invoices issued but not yet paid
+1110,Payment Processors Receivable,Asset,Stripe / PayPal / other processors pending payout
+1120,Inventory,Asset,Products held for sale
+1200,Prepaid Expenses,Asset,Insurance / subscriptions paid in advance
+1300,Equipment & Fixed Assets,Asset,Computers / equipment over capitalization threshold
+1310,Accumulated Depreciation,Asset,Contra-asset for equipment
+1400,Security Deposits,Asset,Refundable deposits
+2000,Accounts Payable,Liability,Bills received but not yet paid
+2010,Business Credit Card,Liability,Primary business card balance
+2020,Sales Tax Payable,Liability,Sales tax collected and owed to states
+2030,Payroll Taxes Payable,Liability,Withholding owed if you have employees
+2100,Loans Payable,Liability,Business loans and lines of credit
+2110,Customer Deposits / Deferred Revenue,Liability,Paid in advance for work not yet delivered
+3000,Owner Contributions,Equity,Money the owner put into the business
+3010,Owner Draws,Equity,Money the owner took out - not salary and not an expense
+3020,Member Capital,Equity,Capital accounts for additional members in a multi-member LLC
+3030,Retained Earnings,Equity,Accumulated profit / loss carried forward
+4000,Sales Revenue,Income,Product sales
+4010,Service Revenue,Income,Services / consulting / client work
+4020,Other Income,Income,Interest / rebates / miscellaneous income
+4900,Refunds & Discounts,Income,Contra-income - refunds and discounts given
+5000,Cost of Goods Sold,COGS,Direct cost of products sold
+5010,Direct Labour / Fulfilment,COGS,Direct delivery cost for services sold
+5020,Shipping - Outbound to Customers,COGS,Postage and freight charged on orders
+6000,Advertising & Marketing,Expense,Ads / sponsorships / marketing tools
+6010,Software & Subscriptions,Expense,SaaS / apps / hosting
+6020,Contractors & Freelancers,Expense,1099 contractors - keep W-9s on file
+6030,Professional Services,Expense,Legal / accounting / tax preparation
+6040,Registered Agent Fees,Expense,Annual registered agent service
+6050,State Fees & Annual Reports,Expense,Formation / annual report / state renewal fees
+6060,Bank Fees & Charges,Expense,Account fees / wire fees / FX fees
+6070,Payment Processing Fees,Expense,Stripe / PayPal / card processing fees
+6080,Office Supplies & Equipment Under Threshold,Expense,Small office purchases expensed directly
+6090,Rent & Coworking,Expense,Office / desk / virtual office
+6100,Phone & Internet,Expense,Business share of phone and internet
+6110,Travel,Expense,Business travel - flights / lodging / transport
+6120,Meals,Expense,Business meals - note who and why on the receipt
+6130,Home Office,Expense,Home office allocation if applicable
+6140,Insurance,Expense,Business insurance premiums
+6150,Education & Training,Expense,Courses / books / training for the business
+6990,Uncategorized / Ask My Accountant,Expense,Temporary holding only - clear to zero every month
